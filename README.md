@@ -1,6 +1,6 @@
 # DevTerm Printer Replacement Module
  This is a kicad 6 template for DevTerm Ext Board.
- ![PCB](meta/brd.PNG)
+ ![PCB](meta/brd.png)
  
 # Usage
 To use this template, you can clone the repository to the folder your like to use or put it into the kicad template folder.
